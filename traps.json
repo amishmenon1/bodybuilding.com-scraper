@@ -1,1 +1,28 @@
-{"traps": ["Smith machine shrug", "Leverage Shrug", "Standing dumbbell shrug", "Standing dumbbell upright row", "Kettlebell sumo deadlift high pull", "Calf-Machine Shoulder Shrug", "Barbell shrug", "Barbell behind-the-back shrug", "Cable straight-bar upright row", "Cable shrug", "Smith machine behind-the-back shrug", "Upright Row - With Bands", "Smith machine upright row", "Clean Shrug", "Scapular Pull-Up", "Snatch Shrug", "Machine low row-", "Single-arm inverted row", "Machine Shrug - Gethin Variation", "Dumbbell pull-over", "Standing Dumbbell Shrug - Gethin Variation", "Single-arm dumbbell row", "Smith machine single-arm shrug", "Band seated row"]}
+{
+    "traps": [
+        "Smith machine shrug",
+        "Leverage Shrug",
+        "Standing dumbbell shrug",
+        "Standing dumbbell upright row",
+        "Kettlebell sumo deadlift high pull",
+        "Calf-Machine Shoulder Shrug",
+        "Barbell shrug",
+        "Barbell behind-the-back shrug",
+        "Cable straight-bar upright row",
+        "Cable shrug",
+        "Smith machine behind-the-back shrug",
+        "Upright Row - With Bands",
+        "Smith machine upright row",
+        "Clean Shrug",
+        "Scapular Pull-Up",
+        "Snatch Shrug",
+        "Machine low row-",
+        "Single-arm inverted row",
+        "Machine Shrug - Gethin Variation",
+        "Dumbbell pull-over",
+        "Standing Dumbbell Shrug - Gethin Variation",
+        "Single-arm dumbbell row",
+        "Smith machine single-arm shrug",
+        "Band seated row"
+    ]
+}
