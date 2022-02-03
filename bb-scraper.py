@@ -3,14 +3,14 @@ import requests
 import sys
 
 muscle = "chest"  # hardcoded muscle argument
-muscle_arg = input('Which muscle do you want exercises for? ') #sys.argv[1]  # muscle input from terminal
+muscle_arg = input('Which muscle do you want exercises for? (must use " "): ') #sys.argv[1]  # muscle input from terminal
 limit_arg = input('Enter max # search results: ') #sys.argv[2] # limit number of exercises returned
 domain = "https://www.bodybuilding.com"
 resource_link = "/exercises/finder/?muscle=" + muscle_arg
 exercises_html = []
 exercises_text = []    
 first_iteration = True
-limit = int(limit_arg) if limit_arg.isnumeric() else None
+limit = int(limit_arg) if type(limit_arg) == int else None
 count = 0
 while resource_link is not None:
     if(first_iteration):
